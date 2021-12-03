@@ -11,4 +11,4 @@
 
 ***italic and bold type***
 
-~~strike through statement
+~~strike through statement~~
